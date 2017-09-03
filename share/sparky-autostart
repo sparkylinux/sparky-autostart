@@ -1,0 +1,1 @@
+?package(sparky-autostart):needs="X11" section="Applications/System"        title="Custom boot services" command="/usr/bin/sparky-autostart" icon="applications-system"
